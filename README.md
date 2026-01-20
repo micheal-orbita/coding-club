@@ -1,39 +1,34 @@
-# Coding Club – Bright Rainbow High School
+# School Coding Club
 
+Founder & Lead: Mine - Micheal Oleagbor
+School: Bright Rainbow High School  
+Started: January 2026  
 
-**Founder:** Micheal Oleagbor  
-**Grade:** 11th Grade  
-**GitHub Username:** micheal-orbita  
+## About
+This repository documents the activities, lessons, and projects of my school coding club.  
+The club focuses on teaching programming fundamentals, building real-world school software, and creating simple engineering simulations.
 
+## Goals
+- Teach beginners programming using Python  
+- Build a result checking and grade analysis system for students  
+- Develop simple physics simulations  
+- Train junior members to continue the club after July 2026  
 
-## About the Club
-The Coding Club is a student-led initiative teaching Python programming to school peers. Members build mini-projects like a school result-checking app and grade analysis tool, developing problem-solving, collaboration, and coding skills. The club also encourages creativity and mentorship among students.
+## Weekly Structure
+- Short lesson  
+- Hands-on coding  
+- Project development  
 
+## Projects
+- Result Checking System (in progress)  
+- Grade Analysis Tool (planned)  
+- Physics Simulations (planned)  
 
-## Projects & Activities
-- **Python Lessons:** Weekly sessions introducing Python basics, data types, loops, and functions  
-- **Mini Projects:**  
-  - School Result-Checking App  
-  - Grade Analysis Tool  
-- **Club Management:** Planning sessions, mentoring juniors, documenting progress on GitHub  
+## Members
+- Founder & Lead: Oleagbor Mine - Micheal
+- Assistant Lead: [Name]  
+- Secretary: [Name]  
 
-
-## Skills Developed
-- Python programming  
-- Problem-solving and algorithmic thinking  
-- Collaboration and teaching  
-- Version control using GitHub  
-
-
-## How to Contribute
-- Join the club or follow along with the projects  
-- Submit Python scripts via pull requests  
-- Share feedback and improvements  
-
-
-## Contact
-- Email: oleagboraugusta@gmail.com
-- GitHub: [https://github.com/micheal-orbita](https://github.com/micheal-orbita)
-
-
-*All projects documented here are designed and maintained by Micheal Oleagbor.*
+## Progress Log
+Week 1: Introduction to Python, print() and input()  
+Week 2: Variables and conditions (planned)
